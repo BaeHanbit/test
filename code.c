@@ -2,5 +2,5 @@
 
 void main()
 {
-	printf("master branch\n");
+	printf("Hello World\n");
 }
